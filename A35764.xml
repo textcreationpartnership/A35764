@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Description of the castle of entertainment as also the wonderful increase of the race of the Huffs : together with a relation of their first original as it was attested by Old Mother Huff in strange characters, and since discover'd and copied out by a pilgrim in the year 1668.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35764</idno>
+            <idno type="STC">Wing D1153</idno>
+            <idno type="STC">ESTC R28591</idno>
+            <idno type="EEBO-CITATION">10685045</idno>
+            <idno type="OCLC">ocm 10685045</idno>
+            <idno type="VID">45493</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35764)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45493)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1401:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Description of the castle of entertainment as also the wonderful increase of the race of the Huffs : together with a relation of their first original as it was attested by Old Mother Huff in strange characters, and since discover'd and copied out by a pilgrim in the year 1668.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Huff, --  Mother.</term>
+               <term>Folklore --  England.</term>
+               <term>Castles --  England --  Legends.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:45493:1"/>
+            <!-- PDF PAGE 31 -->
+            <pb facs="tcp:45493:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <head>THE DESCRIPTION OF THE <hi>Caſtle of Entertainment:</hi> AS ALSO The Wonderful Increaſe of the Race OF THE HUFFS, Together with The Relation of their Firſt Original, as it was Atteſted by Old Mother Huff In ſtrange Characters, and ſince Diſcover'd and Copied out by a Pilgrim in the Year 1668.</head>
+            <p>IT fortuned in <hi>Auguſt</hi> 1668, that two Pilgrims went out of the Famous Caſtle in <hi>Parſonage Iſland,</hi> to viſit on foot a Forein Shrine they had never before ſeen. They had ſcarce gone any weary Steps before by a ſmall Houſe lately Inhabited by a Knight of <hi>Actaeons</hi> Order, and his Wandering Lady, in whoſe room now reſides Sir <hi>Joannes
+<pb facs="tcp:45493:2"/>
+                  <!-- PDF PAGE 32 -->
+Winnow-corn</hi> and Dame <hi>Skreen-face</hi> his Wife. From thence they went by one of <hi>Vulcan</hi>'s Forges; then aſcending up a ſhort Hill, and ſo through a plain even way, that brought them to another longer Hill, on both ſides beautified with goodly Fabricks. Arriving to the height they viewed a Chapel on their right hand, where looking up to ſee where the Wind ſate, (the better to ſteer their courſe) their Expe<g ref="char:EOLhyphen"/>ctations became fruſtrate, for the diſcourteous Weathercock had taken his flight and forſook his Perch. From thence they ſuddenly paſſed through a very High Gate, arched over with an Edifice of Brick, much differing from the Form of the <hi>Aegyptian Pyramids.</hi> Thence taking their way on their left hand, they entered into ſolitary Groves through lower Gates, till they came to a certain Thicket, bearing the name of wicked <hi>Cain,</hi> but on what account ſo called thoſe ſilent Trees could not inform them; they nevertheleſs were con<g ref="char:EOLhyphen"/>fident, that neither that Fratricide, nor any of his Poſterity, ever came thither, much leſs planted that Wood. Thus ru<g ref="char:EOLhyphen"/>minating in their thoughts, they found Diverſion by behold<g ref="char:EOLhyphen"/>ing a ſumptuous Fabrick there erected. Having ſome time admired it they went on, till they exchanged thoſe melan<g ref="char:EOLhyphen"/>choly Paths to an open Deſart on a Mountain, which invi<g ref="char:EOLhyphen"/>ted their eyes to delightful Objects round about. Among the reſt one that ſeems wonderful to report; for on a Hill they beheld a Harrow of ſuch vaſt extenſion, that it lay upon more ground than Ten Yokes of Oxen with Ten Ploughs can plough in Ten Days. Through this pleaſant way the Pilgrims ſtill continued their Travel along by the Pillar of Salutation, and then near to the Tower of the four flying Streamers, till at laſt by diligent labour and ſtrict inquiry they arrived at the place deſired.</p>
+            <p>What ſignal Favours they there received from the Munifi<g ref="char:EOLhyphen"/>cence of Perſons of high Honour, as alſo the Courteſies ſhew'd to them from others of lower Rank, ſhall here be wholly omitted, becauſe meriting better Record in the Regi<g ref="char:EOLhyphen"/>ſter of Grateful Memory, and therefore above the ſcope of this Diſcourſe. It ſhall here then ſuffice to relate onely what an admirable Cave they beheld within thoſe Territories, ſo ſtrangly framed by Nature, that it ſeemed in all reſpects quite
+<pb facs="tcp:45493:2"/>
+               <!-- PDF PAGE 32 -->
+contrary to other common Caves; for whereas they lie fixed under ground, and are dark and empty, this appeared high above ground, in frequent motion, pleaſantly lightſom, and repleniſhed with commendable Endowments.</p>
+            <p>The Pilgrims having there preſented their obliged Ho<g ref="char:EOLhyphen"/>mage, departed thence toward the <hi>Caſtle of Entertainment,</hi> by the Invitation and Conduct of a courteous Knight in Black Armour, in company of a ſingle Damoſel, and her Sweet<g ref="char:EOLhyphen"/>heart a merry Falconer, where after a ſhort Journey (partly by Water, for they ſeldom trod on dry Land) they ſoon ar<g ref="char:EOLhyphen"/>rived. They found the Caſtle ſeated on the ſide of a Moun<g ref="char:EOLhyphen"/>tain in a ſmall Grove of ſhady Trees, but of an indifferent proportion, neither high nor large, but well contrived into little Rooms, all within ſound of the Sentinel's Trumpet; well defended not onely by its own proper Garriſon, but alſo by Auxiliary Forces in great numbers daily repairing thither. The Gates ſtanding open towards the top of the Mountain, they reſolutely entered in without the leaſt Re<g ref="char:EOLhyphen"/>ſiſtance or diſpute; where no ſooner ſet down, but there were ſome brought in whoſe Faces were full of Black Pat<g ref="char:EOLhyphen"/>ches; whom when the Black Knight aforeſaid had eſpied, he cauſed them without mercy to be deſtroyed as many as appeared in his ſight, ſome drowned, and others broken in pieces on a Wooden Engine, ſo long till the elder of the Pil<g ref="char:EOLhyphen"/>grims (not enduring any longer to behold ſo cruel a Maſſa<g ref="char:EOLhyphen"/>cre) was enforced to call away the other Pilgrim and depart; and by the way, far enough from the Caſtle, upon an invi<g ref="char:EOLhyphen"/>ſible Pillar, in Characters ſo ſtrange were never yet peruſed, read as followeth.</p>
+            <p>
+               <q>I Mother Huff, having in my Youth been croſſed in Worldly Affairs, (though always ſubtil and covetous) for which cauſe in my elder years I betook my ſelf to yonder Caſtle, where I adopted one <hi>Yeſticus Huff</hi> for my Son, who (by the aſſiſtance of other his Aſſociates) compoſed for my uſe an Enchanting Liquor, ſo pleaſant to the Taſte, and lofty in Operation, that in ſhort time it filled my Caſtle with Gueſts, and my broad Pouch with jingling Caſh. Soon after it chanced that my ſaid Son <hi>Yeſticus</hi> grew enamour'd of a Damoſel named <hi>Flourca,</hi> whom by the power of my Charms I procured to be fetch'd (hood-wink'd in a Bag) from the Tower of the four flying Streamers, and having craf<g ref="char:EOLhyphen"/>tily
+<pb facs="tcp:45493:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 33 -->
+ſifted our her Heart, in fine I adorned her with Beauty Spots, and brought my Son and her together; from which Conjunction in few hours were produced many Dozens of young little Huffs; nor were they improperly call'd ſo, for no ſooner were they in view, but they preſently ſwell'd bigger, and were huffed up through the Ambi<g ref="char:EOLhyphen"/>tion naturally derived to them from their Father, who ever ſought for Superiority, and was therefore exiled from a Boarded Houſe near adjacent, called <hi>Hoop Caſtle,</hi> when firſt I took him into my houſe. In brief, this Spotted Huffing Progeny daily multiplied ſo faſt, that the report thereof ſpread throughout the Countrey, by which means I got the Name of <hi>Mother Huff,</hi> which to this day I own, as I do them alſo for my adopted Of-ſpring. But ſuch was the cruel Fate that attended them, that my Neighbours in jealouſie, leſt they ſhould over-run their Confines, conſpired againſt them, laid violent hands on them, and did murther them daily before my face; yet it did the leſs grieve me, for that notwithſtanding they ſtill encreaſed, and I hope will ſtill do. And now conſidering that I grow old, and muſt die and leave them whether I will or no, leſt my Name and Fame ſhould pe<g ref="char:EOLhyphen"/>riſh among them, I have here erected this Monument in theſe unknown Figures, to declare to Poſterity their wonderful Original, and my ſin<g ref="char:EOLhyphen"/>gular good Affection towards them, wiſhing them ſtill to reſide in my Caſtle, which I bequeath to them and their Succeſſors for ever, on theſe conditions, that henceforth it be called the <hi>Caſtle of Entertainment,</hi> and that the Gates ſhould ſtand open all day in an hoſpitable manner, to admit any in for their Money, and not otherwiſe, according to my own Laudable Cuſtom: And ſo I bid the World Farewell.</q>
+            </p>
+            <p>The Pilgrims having taken a Copy thereof, it is here written for private Recreation, and not for publick Benefit.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45493:3"/>
+            <!-- PDF PAGE 33 -->
+         </div>
+      </body>
+   </text>
+</TEI>
